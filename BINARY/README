@@ -1,1 +1,14 @@
+This is a binary calculator that performs arthmentic opertions on arbitarily large numbers.
+It includes the following operations
+1.Addition
+2.Substraction
+3.Multilication
+4.Division
+5.Modulo
+6.Power
+It also evaluates an infix expression of any combination of numbers and above mentioned operators
+It also performs basic trignometric functions 
+1.Sine
+2.Cosine
+3.Tangent
 
