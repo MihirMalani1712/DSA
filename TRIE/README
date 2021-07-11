@@ -1,1 +1,7 @@
+PhoneBook Implementation using Trie Data Structure.
+It includes the following operations 
+1.Add a new contact
+2.Delete an exsisting contact
+3.Display all contacts
+4.Search for a particular contact
 
